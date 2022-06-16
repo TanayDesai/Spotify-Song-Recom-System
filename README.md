@@ -10,7 +10,7 @@ Building a content based recommendation system from a dataset 45k spotify songs 
 
 ## Tech Stack
 * Python - Data preparation
-* Python - Flask API
+* Python - Flask API Link: https://github.com/TanayDesai/Spotify-Song-Recom-API
 * Python - Logic for recommendation request
 * React-Native & Expo - Andoird,ios,web App.
 
